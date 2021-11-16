@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 046c62f78bb40404db5ac793fd7f88d5, type: 3}
+  m_Name: Hat
+  m_EditorClassIdentifier: 
+  type: 0
+  gender: 0
+  spriteMatrix: {fileID: 11400000, guid: 8aa4bd2106887274b94dcb0c0bb0bae2, type: 2}
+  none: 0
+  topHead: 1
+  head: 0
+  neck: 0
+  upperBody: 0
+  body: 0
+  lowerBody: 0
+  legs: 0
+  feet: 0
+  baseColors:
+  - {r: 0.36862746, g: 0.32156864, b: 0.32156864, a: 1}
+  - {r: 0.29411766, g: 0.26666668, b: 0.29803923, a: 1}
+  - {r: 0.227451, g: 0.19215688, b: 0.227451, a: 1}
+  - {r: 0.18823531, g: 0.15294118, b: 0.19607845, a: 1}
+  - {r: 0.1137255, g: 0.07450981, b: 0.11764707, a: 1}
