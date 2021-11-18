@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e855b9ca3b5a42449d23e1e71b64cb1, type: 3}
+  m_Name: MaleShirtSpriteMatrix
+  m_EditorClassIdentifier: 
+  back:
+  - {fileID: 7515147358703247876, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -6121842405415712691, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 7057456412931870734, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -4034351037117017772, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 8219992010450023146, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 2509380451564698854, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -2979094526647442750, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -959902073527608723, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 8835098827844755264, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  left:
+  - {fileID: -4303402642570728520, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 6249857594027081507, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -2147433208910113288, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 6709405351754270864, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -2830006143744849215, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -6690246808791199363, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -928048407879305659, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 7751931404016963419, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 7559063342976640720, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  front:
+  - {fileID: -4442592261963908669, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -151018179333103816, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 5709968026486310854, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -8495383289133717228, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -9173884423179150891, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 3527644169181239638, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 7554403912511255179, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -2307572976005391497, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -3806758326564876233, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  right:
+  - {fileID: 176530103437284357, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 6307610088104521468, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 2951214261087983953, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 3518620197991878071, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 1692062660008834531, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -4286347782374296932, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 4061995225958282602, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: -7163174266554274046, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  - {fileID: 7735303784296761594, guid: f2a06b847c769b44cb09013eed79c11b, type: 3}
+  recolorBack: []
+  recolorLeft: []
+  recolorFront:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  recolorRight: []
+  idleFrame: 0
+  startFrame: 8
+  restartFrame: 1
+  baseColors:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.8980393, g: 0.90196085, b: 0.7803922, a: 1}
+  - {r: 0.7686275, g: 0.70980394, b: 0.62352943, a: 1}
+  - {r: 0.58431375, g: 0.5019608, b: 0.5019608, a: 1}
+  - {r: 0.25882354, g: 0.25882354, b: 0.25882354, a: 1}
+  - {r: 0.15686275, g: 0.09411766, b: 0.1254902, a: 1}
+  recolorColors:
+  - {r: 0.7830266, g: 0.9716981, b: 0.7654414, a: 1}
+  - {r: 0.5059365, g: 0.8490566, b: 0.500623, a: 1}
+  - {r: 0.31016377, g: 0.7735849, b: 0.45893127, a: 1}
+  - {r: 0.18115878, g: 0.5566038, b: 0.41220936, a: 1}
+  - {r: 0.054378778, g: 0.24528301, b: 0.1455267, a: 1}
+  - {r: 0.03604486, g: 0.16981131, b: 0.16416906, a: 1}

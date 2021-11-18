@@ -52,4 +52,31 @@ MonoBehaviour:
   - {fileID: -1097045671162312686, guid: 8dd33b8b2f625e44da14c01829d715e0, type: 3}
   - {fileID: 5134690015901087727, guid: 8dd33b8b2f625e44da14c01829d715e0, type: 3}
   - {fileID: 1724902252442516351, guid: 8dd33b8b2f625e44da14c01829d715e0, type: 3}
+  recolorBack: []
+  recolorLeft: []
+  recolorFront:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  recolorRight: []
   idleFrame: 0
+  startFrame: 8
+  restartFrame: 1
+  baseColors:
+  - {r: 0.36862746, g: 0.32156864, b: 0.32156864, a: 1}
+  - {r: 0.29411766, g: 0.26666668, b: 0.29803923, a: 1}
+  - {r: 0.227451, g: 0.19215688, b: 0.227451, a: 1}
+  - {r: 0.18823531, g: 0.15294118, b: 0.19607845, a: 1}
+  - {r: 0.1137255, g: 0.07450981, b: 0.11764707, a: 1}
+  recolorColors:
+  - {r: 0.5392909, g: 0.39017445, b: 0.6037736, a: 1}
+  - {r: 0.4056604, g: 0.23153257, b: 0.38824755, a: 1}
+  - {r: 0.2708438, g: 0.16131185, b: 0.2735849, a: 1}
+  - {r: 0.17570649, g: 0.12433251, b: 0.20754719, a: 1}
+  - {r: 0.094934486, g: 0.07450981, b: 0.11764706, a: 1}

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e855b9ca3b5a42449d23e1e71b64cb1, type: 3}
+  m_Name: MalePantsSpriteMatrix
+  m_EditorClassIdentifier: 
+  back:
+  - {fileID: -4753465678726920349, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 5377759294187509895, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -21401750654449356, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 2354753494107644500, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -5948825673586406926, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -2892765221723866664, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 2715509273496429270, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 3181831688240689563, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -3614378937513702896, guid: 025622f35af87404cbd097742114f487, type: 3}
+  left:
+  - {fileID: -7098794304034947686, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -1347701069345291489, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -8891247479533843464, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 646722690470374756, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -4460065192783629012, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 1746601469599137080, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -3397305776321213434, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -7167845651815378204, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -670874029901403524, guid: 025622f35af87404cbd097742114f487, type: 3}
+  front:
+  - {fileID: 7363306923238024289, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 4310736402009060759, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -8935797417180469686, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -4037566415833610244, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 5451176704172420212, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -2367440883225852675, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -7081390754392953896, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 3248280407462739993, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 8442487281221676673, guid: 025622f35af87404cbd097742114f487, type: 3}
+  right:
+  - {fileID: -5083217918925519719, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 6357179736400805823, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 5884086124154001250, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -5016764628991525515, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: -6461169287609660145, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 168435253440214806, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 3240900308686378369, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 514625922849801351, guid: 025622f35af87404cbd097742114f487, type: 3}
+  - {fileID: 6058744585794524860, guid: 025622f35af87404cbd097742114f487, type: 3}
+  recolorBack: []
+  recolorLeft: []
+  recolorFront:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  recolorRight: []
+  idleFrame: 0
+  startFrame: 8
+  restartFrame: 1
+  baseColors:
+  - {r: 1, g: 0.654902, b: 0.28627452, a: 1}
+  - {r: 0.93725497, g: 0.49411768, b: 0.098039225, a: 1}
+  - {r: 0.8431373, g: 0.35686275, b: 0.10196079, a: 1}
+  - {r: 0.6117647, g: 0.24705884, b: 0.13725491, a: 1}
+  - {r: 0.37254903, g: 0.1137255, b: 0.10588236, a: 1}
+  recolorColors:
+  - {r: 0.28627455, g: 0.90000093, b: 1, a: 1}
+  - {r: 0.09803922, g: 0.75160277, b: 0.9372549, a: 1}
+  - {r: 0.101960756, g: 0.48607352, b: 0.84313726, a: 1}
+  - {r: 0.13725491, g: 0.28209573, b: 0.6117647, a: 1}
+  - {r: 0.10588235, g: 0.14617497, b: 0.37254903, a: 1}

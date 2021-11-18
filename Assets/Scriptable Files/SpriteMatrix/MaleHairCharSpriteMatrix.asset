@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e855b9ca3b5a42449d23e1e71b64cb1, type: 3}
+  m_Name: MaleHairCharSpriteMatrix
+  m_EditorClassIdentifier: 
+  back:
+  - {fileID: -5844806042606085674, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -7488709181778468242, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 7249498045367992807, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -883339328526051181, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -1383247128781021205, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 2672984932222822789, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -666872672780209382, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -3698284547090105558, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 642270731795910766, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  left:
+  - {fileID: -8916031452309065688, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 8145280867065201382, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 1609583222390118415, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 665944789206201253, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -8592543054508498718, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -8587678123339754998, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 6143912745944828021, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -5037669425570421380, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 6450758093868360689, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  front:
+  - {fileID: 5436523700990496033, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -311166126311870481, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 3083908349969111264, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -128765356200642839, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 7287515191157192401, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -4890885009361303527, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -8314387032608747332, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -8398433133932676067, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 9160535029312015388, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  right:
+  - {fileID: 338398622814125289, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 6886597016499663814, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 6259981814191088546, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -1126738286640296726, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 3885039831814533026, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 5799447611189232699, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: -4131398432761250363, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 2530595392677624895, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  - {fileID: 6297338400026132995, guid: cb0eda907deb837468592aa3059dbe3b, type: 3}
+  recolorBack: []
+  recolorLeft: []
+  recolorFront:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  recolorRight: []
+  idleFrame: 0
+  startFrame: 8
+  restartFrame: 1
+  baseColors:
+  - {r: 0.9803922, g: 0.07058824, b: 0.07058824, a: 1}
+  - {r: 0.9803922, g: 0, b: 0, a: 1}
+  - {r: 0.80392164, g: 0, b: 0, a: 1}
+  - {r: 0.6156863, g: 0, b: 0, a: 1}
+  - {r: 0.4156863, g: 0, b: 0, a: 1}
+  - {r: 0.17254902, g: 0, b: 0, a: 1}
+  recolorColors:
+  - {r: 1, g: 0.9617246, b: 0.43867922, a: 1}
+  - {r: 1, g: 0.8131448, b: 0.2971698, a: 1}
+  - {r: 0.7075472, g: 0.53358626, b: 0.130162, a: 1}
+  - {r: 0.3962264, g: 0.33817184, b: 0.031772878, a: 1}
+  - {r: 0.20754719, g: 0.19608343, b: 0.016642937, a: 1}

@@ -13,4 +13,13 @@ public class CharGarments : ScriptableObject
     [SerializeField] Garment lowerBody;
     [SerializeField] Garment legs;
     [SerializeField] Garment feet;
+
+    public Garment TopHead { get => topHead; }
+    public Garment Head { get => head; }
+    public Garment Neck { get => neck; }
+    public Garment UpperBody { get => upperBody;  }
+    public Garment Body { get => body; }
+    public Garment LowerBody { get => lowerBody; }
+    public Garment Legs { get => legs; }
+    public Garment Feet { get => feet; }
 }

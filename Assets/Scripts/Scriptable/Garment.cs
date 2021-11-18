@@ -20,8 +20,7 @@ public class Garment : ScriptableObject
     [SerializeField] bool legs;
     [SerializeField] bool feet;
 
-    [Header("Original Colors")]
-    [SerializeField] Color[] baseColors;
+    public SpriteMatrix SpriteMatrix { get => spriteMatrix; }
 
     public int Remove() {
         return  (topHead ? 1 : 0) + (head ? 2 : 0) + (neck ? 4 : 0) +(upperBody ? 8 : 0) + (body ? 16 : 0) + (lowerBody ? 32 : 0) + (legs ? 64 : 0) + (feet ? 128 : 0);

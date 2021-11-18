@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gender: 0
   body: 1
-  spriteMatrix: {fileID: 0}
+  garments: {fileID: 11400000, guid: 4c7077a2692bccb49bca29a981afbb3a, type: 2}
+  hairMatrix: {fileID: 11400000, guid: 4dda19c2eae11304a8ab510580d34f30, type: 2}
+  bodyMatrix: {fileID: 11400000, guid: 69425c9e941a4cd4f843b3f55673f653, type: 2}
